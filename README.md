@@ -68,7 +68,7 @@ Make sure the following files are present in the root directory:
 Without these files, the application will not run.
 
 ---
-### Dataset  
+## Dataset  
 The dataset used in this project is sourced from Kaggle's **Quora Question Pairs** competition:
 
 Dataset link : [https://www.kaggle.com/c/quora-question-pairs](https://www.kaggle.com/c/quora-question-pairs)
