@@ -44,15 +44,14 @@ pip install python-Levenshtein
 ---
 
 ### Run the Application Locally
+If Streamlit is not installed, run:
+```bash
+pip install streamlit
+```
 Download or clone the repository, then open the terminal inside the project folder and run:
 
 ```bash
 streamlit run app.py
-```
-
-If Streamlit is not installed, run:
-```bash
-pip install streamlit
 ```
 
 - Once the command runs, Streamlit will automatically open the app in your default browser.
